@@ -7,7 +7,7 @@ export class TareasService {
 
   private localStorageKey = 'listaTareas'; 
 
-  getTareas() {
+  getTareas(): string[] {
     return JSON.parse (localStorage.getItem(this.localStorageKey) as string) || [];
   }
 
