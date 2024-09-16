@@ -1,6 +1,8 @@
 
 # ANGULAR: LISTA DE TAREAS
 
+[Despliegue de lista de tareas con angular 16-17](https://lista-tareas-angul-17.netlify.app/)
+
 Este repositorio tiene una app web realizada con angular donde se manipulan y agregan tareas.
 
 ## Uso
