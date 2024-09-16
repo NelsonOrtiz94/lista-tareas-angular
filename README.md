@@ -1,5 +1,5 @@
 
-# ANGULAR: LISTA de TAREAS
+# ANGULAR: LISTA DE TAREAS
 
 Este repositorio tiene una app web realizada con angular donde se manipulan y agregan tareas.
 
